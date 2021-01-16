@@ -1,0 +1,27 @@
+#my-id {
+    background-color: lightsalmon;
+}
+
+.my-class {
+    background-color: brown;
+}
+
+div {
+    color: blue;
+}
+
+[xyz] {
+
+}
+
+[xyz='abc'] {
+
+}
+
+div span {
+    font-size: 30px;
+}
+
+div.my-class {
+    text-decoration: underline;
+}
